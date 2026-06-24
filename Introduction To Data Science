@@ -1,0 +1,58 @@
+## Section 1: Introduction to Data Science
+
+### Lecture 1 & 2: The Need for and Definition of Data Science
+
+- **The "Why":** Traditional Business Intelligence (BI) tools are great for analyzing structured, historical data. However, the modern world generates massive amounts of **unstructured and semi-structured data** (e.g., social media logs, financial transactions, IoT sensor data). Data Science is needed to make sense of this chaotic data.
+- **What is Data Science?** It is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and actionable insights from data. It sits at the intersection of:
+    - Computer Science / IT
+    - Math & Statistics
+    - Domains / Business Knowledge
+
+### Lecture 3: The Data Science Life Cycle
+
+The typical workflow an engineer or data scientist follows:
+
+1. **Business Understanding:** Defining the problem and goals.
+2. **Data Acquisition:** Gathering data from various sources (databases, web scraping, APIs).
+3. **Data Cleaning/Preparation:** Handling missing values, removing duplicates, and structuring data.
+4. **Data Exploration (EDA):** Finding patterns and trends using statistical summaries and charts.
+5. **Predictive Modeling:** Applying Machine Learning algorithms to train models.
+6. **Deployment & Evaluation:** Putting the model into production and tracking its performance.
+
+### Lecture 4: Applications of Data Science
+
+- **Search Engines:** Google using algorithms to predict the best results for your query in milliseconds.
+- **Recommendation Systems:** Netflix, Amazon, and Spotify suggesting content based on past user behavior.
+- **E-Commerce & Banking:** Fraud detection systems checking credit card transactions in real-time.
+- **Healthcare:** Medical image analysis (detecting tumors) and drug discovery.
+
+---
+
+## Section 2: Core Foundations & Ecosystem
+
+### Lecture 5: Introduction to Big Data
+
+- **Definition:** Extremely large datasets that cannot be easily analyzed or processed by traditional relational databases.
+- **The V's of Big Data:** * **Volume:** The sheer scale of data scale (Terabytes to Petabytes).
+    - **Velocity:** The high speed at which new data is generated and needs processing (e.g., Twitter feeds).
+    - **Variety:** Different formats of data (Structured, Text, Video, Audio).
+
+### Lecture 6 & 7: Machine Learning vs. Deep Learning
+
+- **Machine Learning (ML):** A subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed (e.g., Linear Regression, Decision Trees).
+- **Deep Learning (DL):** A specialized subset of ML inspired by the structure of the human brain. It uses **Artificial Neural Networks** with multiple layers to learn complex patterns, making it highly effective for image recognition and Natural Language Processing (NLP).
+
+### Lecture 8: Introduction to R and RStudio
+
+- **R:** A programming language and free software environment designed specifically for statistical computing, data analysis, and graphics.
+- **RStudio:** The most popular Integrated Development Environment (IDE) for R. It makes writing code, viewing plots, tracking variables, and managing files much easier through a clean 4-panel interface.
+
+---
+
+## Section 3: Future Roadmap
+
+The rest of your course modules will expand on these fundamentals sequentially:
+
+- **Data Prep & Visuals:** Modules 1–3 (R programming, Data Manipulation, Data Visualization).
+- **Core Math & ML:** Modules 4–8 (Statistics, Linear/Logistic Regressions, Decision Trees, Random Forests).
+- **Advanced Analytics:** Modules 9–13 (Unsupervised Learning, Time Series, Sentiment Analysis, and AI).
